@@ -1,0 +1,109 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+section{
+    height:600px;
+}
+#name{
+color:deeppink;
+font-size: xx-large;
+font-weight: bold;
+}
+.button{
+    text-decoration: none;
+    background-image:linear-gradient(red,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: x-large;
+    color: honeydew;
+}
+.back{
+    background-image: url("good/header-bg.png");
+    widows: 500px;
+}
+.had{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:5%;
+}
+
+.had img{
+    width:80%;
+}
+.aria{
+    background-image: url("good/biography-bg.png");
+    width: 100%;
+}
+section{
+    height: 600px;
+}
+.schend img{
+width: 100%;
+}
+.schend{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+#box{
+    text-decoration: none;
+    background-image: linear-gradient(hotpink,darkred);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: x-large;
+    color: ivory;
+}
+.third{
+    background-image: url(good/latest-work-bg.png);
+    height: 400px;
+}
+.work{
+   text-align: center;
+    font-size: xx-large;
+}
+.phote{
+    width: 20%;
+    float: left;
+    margin-left:5%;
+    padding-left: 5%;
+   
+}
+.phote img{
+    width: 100%;
+}
+.position{
+    text-align: center;
+}
+#bold{
+    font-weight: bolder;
+}
+#slim{
+   font-weight: 400;
+}
+.center{
+    text-align: center;
+
+}
+#smail{
+    font-weight: 500;
+}
+#like{
+    text-decoration: none;
+    color: gainsboro;
+    
+}
+.boxer{
+ 
+ background-image: linear-gradient(hotpink,red);
+ border-radius: 10px;
+ margin: 50px 400px;
+ padding: 5px;
+ text-align: center;
+ color: gainsboro;
+ 
+}
+.foter{
+    text-align: center;
+}
