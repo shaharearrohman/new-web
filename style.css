@@ -107,3 +107,8 @@ width: 100%;
 .foter{
     text-align: center;
 }
+.control{
+    float: left;
+    margin: 10px 20px;
+    padding: 10px;
+}
